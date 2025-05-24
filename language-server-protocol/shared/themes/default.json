@@ -15,8 +15,6 @@
     "editortWidget.foreground": "#725a5a",
     "editorWidget.border": "#201e1e",
     "editorSuggestWidget.selectedBackground": "#100f0f",
-    "editorError.foreground": "#a42e28",
-    "editorMarkerNavigationError.background": "#FF98AA",
     "editorOverviewRuler.border": "#232323",
     "editorHoverWidget.background": "#0b0f1a",
   },
