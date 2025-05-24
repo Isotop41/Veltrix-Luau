@@ -2,16 +2,23 @@
   "author": "uraneller",
   "name": "default",
   "colors": {
-    "editorOverviewRuler.warningForeground": "#800080",
-   "editorOverviewRuler.errorForeground": "#b100cd",
+    "editorOverviewRuler.warningForeground": "#f2e700",
+   "editorOverviewRuler.errorForeground": "#e05a5a",
     "editorOverviewRuler.infoForeground": "#6B91B2",
-   "editorError.foreground": "#b100cd",
-   "editorWarning.foreground": "#800080",
-    "editor.background": "#121118",
-    "editor.foreground": "#7A7693",
-    "editorWidget.border": "#1C1C24",
-    "editorWidget.background": "#121118",
-    "editor.lineHighlightBorder": "#1C1C24"
+   "editorError.foreground": "#e05a5a",
+   "editorWarning.foreground": "#f2e700",
+    "editor.background": "#00000000",
+    "editor.foreground": "#725a5a",
+    "editorWidget.background": "#1c1919",
+    "dropdown.background": "#1c1919",
+    "editorSuggestWidget.background": "#1c1919",
+    "editortWidget.foreground": "#725a5a",
+    "editorWidget.border": "#201e1e",
+    "editorSuggestWidget.selectedBackground": "#100f0f",
+    "editorError.foreground": "#a42e28",
+    "editorMarkerNavigationError.background": "#FF98AA",
+    "editorOverviewRuler.border": "#232323",
+    "editorHoverWidget.background": "#0b0f1a",
   },
   "tokenColors": [
     {
@@ -21,7 +28,7 @@
         "namespace"
       ],
       "settings": {
-        "foreground": "#FF7333"
+        "foreground": "#725a5a"
       }
     },
     {
@@ -32,7 +39,7 @@
         "typeParameter"
       ],
       "settings": {
-        "foreground": "#6BC0FF"
+        "foreground": "#725a5a"
       }
     },
     {
@@ -43,7 +50,7 @@
         "enum"
       ],
       "settings": {
-        "foreground": "#E5C07B"
+        "foreground": "#725a5a"
       }
     },
     {
@@ -55,7 +62,7 @@
         "enumMember"
       ],
       "settings": {
-        "foreground": "#428fcd"
+        "foreground": "#725a5a"
       }
     },
     {
@@ -64,7 +71,7 @@
         "event"
       ],
       "settings": {
-        "foreground": "#D19A62"
+        "foreground": "#725a5a"
       }
     },
     {
@@ -74,7 +81,7 @@
         "method"
       ],
       "settings": {
-        "foreground": "#C25EC2"
+        "foreground": "#725a5a"
       }
     },
     {
@@ -84,7 +91,7 @@
         "function"
       ],
       "settings": {
-        "foreground": "#C25EC2"
+        "foreground": "#725a5a"
       }
     },
     {
@@ -93,7 +100,7 @@
         "keyword"
       ],
       "settings": {
-        "foreground": "#C993FF"
+        "foreground": "#e05a5a"
       }
     },
     {
@@ -102,7 +109,7 @@
         "comment"
       ],
       "settings": {
-        "foreground": "#5C6370"
+        "foreground": "#616161"
       }
     },
     {
@@ -111,7 +118,7 @@
         "string"
       ],
       "settings": {
-        "foreground": "#7A7693"
+        "foreground": "#e05a5a"
       }
     },
     {
@@ -121,7 +128,7 @@
         "number"
       ],
       "settings": {
-        "foreground": "#FF7333"
+        "foreground": "#e05a5a"
       }
     }
   ],
