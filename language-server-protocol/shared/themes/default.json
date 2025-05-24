@@ -1,0 +1,129 @@
+{
+  "author": "uraneller",
+  "name": "default",
+  "colors": {
+    "editorOverviewRuler.warningForeground": "#800080",
+   "editorOverviewRuler.errorForeground": "#b100cd",
+    "editorOverviewRuler.infoForeground": "#6B91B2",
+   "editorError.foreground": "#b100cd",
+   "editorWarning.foreground": "#800080",
+    "editor.background": "#121118",
+    "editor.foreground": "#7A7693",
+    "editorWidget.border": "#1C1C24",
+    "editorWidget.background": "#121118",
+    "editor.lineHighlightBorder": "#1C1C24"
+  },
+  "tokenColors": [
+    {
+      "name": "Constant",
+      "scope": [
+        "constant",
+        "namespace"
+      ],
+      "settings": {
+        "foreground": "#FF7333"
+      }
+    },
+    {
+      "name": "Support Type",
+      "scope": [
+        "support.type",
+        "type",
+        "typeParameter"
+      ],
+      "settings": {
+        "foreground": "#6BC0FF"
+      }
+    },
+    {
+      "name": "Support Class",
+      "scope": [
+        "support.class",
+        "class",
+        "enum"
+      ],
+      "settings": {
+        "foreground": "#E5C07B"
+      }
+    },
+    {
+      "name": "Variable",
+      "scope": [
+        "variable",
+        "parameter",
+        "property",
+        "enumMember"
+      ],
+      "settings": {
+        "foreground": "#428fcd"
+      }
+    },
+    {
+      "name": "Event",
+      "scope": [
+        "event"
+      ],
+      "settings": {
+        "foreground": "#D19A62"
+      }
+    },
+    {
+      "name": "Support Function",
+      "scope": [
+        "support.function",
+        "method"
+      ],
+      "settings": {
+        "foreground": "#C25EC2"
+      }
+    },
+    {
+      "name": "Support Function Any Method",
+      "scope": [
+        "support.function.any-method",
+        "function"
+      ],
+      "settings": {
+        "foreground": "#C25EC2"
+      }
+    },
+    {
+      "name": "Keyword",
+      "scope": [
+        "keyword"
+      ],
+      "settings": {
+        "foreground": "#C993FF"
+      }
+    },
+    {
+      "name": "Comment",
+      "scope": [
+        "comment"
+      ],
+      "settings": {
+        "foreground": "#5C6370"
+      }
+    },
+    {
+      "name": "String",
+      "scope": [
+        "string"
+      ],
+      "settings": {
+        "foreground": "#7A7693"
+      }
+    },
+    {
+      "name": "Constant Numeric",
+      "scope": [
+        "constant.numeric",
+        "number"
+      ],
+      "settings": {
+        "foreground": "#FF7333"
+      }
+    }
+  ],
+  "uuid": "32bd64fa-d60a-4858-a5fc-5164cc49a2b8"
+}
